@@ -1,5 +1,12 @@
 venv/
 __pycache__/
+stream_data/realtime_output/
+data/checkpoints/
+*.tgz
+*.log
+
+venv/
+__pycache__/
 .DS_Store
 data/clean/
 models/*.pkl
